@@ -37,22 +37,22 @@ Console.Write("Input the format you would like the date to be printed in(\n\"MM/
 string theFormatInput = Console.ReadLine();
 
 
-if(theFormatInput== "mm/dd/yyyy")
+if(theFormatInput== "mm/dd/yyyy".ToLower())
 {
     string dateFormat = theDate.ToString("mm/dd/yyyy");
     Console.WriteLine(dateFormat);
 }
-else if(theFormatInput== "MM/dd/yyyy hh:mm:ss")
+else if(theFormatInput== "MM/dd/yyyy hh:mm:ss".ToLower())
 {
     string dateFormat = theDate.ToString("mm/dd/yyyy hh:mm:ss");
     Console.WriteLine(dateFormat);
 
 }
-else if(theFormatInput== "dddd, dd MMMM yyyy HH:mm: ss") {
+else if(theFormatInput== "dddd, dd MMMM yyyy HH:mm: ss".ToLower()) {
     string dateFormat = theDate.ToString("dddd, dd MMMM yyyy HH:mm:ss");
     Console.WriteLine(dateFormat);
 }
-else if(theFormatInput== "MM.dd.yyyy")
+else if(theFormatInput== "MM.dd.yyyy".ToLower())
 {
     string dateFormat = theDate.ToString("MM.dd.yyyy");
     Console.WriteLine(dateFormat);
