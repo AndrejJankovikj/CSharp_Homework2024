@@ -4,26 +4,34 @@ Console.WriteLine("Hello, World!");
 
 
 
+Console.WriteLine("Todays date is " + DateTime.Now.ToLongDateString());
+static int AgeCalculator(DateTime birthdate)
+{
+    DateTime currentDate = DateTime.Now;
+    int age = currentDate.Year - birthdate.Year;
 
-//DateTime currentDate= DateTime.Today;
-//Console.WriteLine(currentDate);
+    if (currentDate.Month < birthdate.Month || (currentDate.Month == birthdate.Month && currentDate.Day < birthdate.Day))
+    {
+        age--;
+        return age;
+    }
 
-//Console.Write("Enter your date of birth(mm/dd/yyyy)  ");
-//DateTime yourBirthday = DateTime.Parse(Console.ReadLine());
-//Console.WriteLine(yourBirthday);
-//TimeSpan value = currentDate.Subtract(yourBirthday);
-//Console.WriteLine(value);
+    return age;
+}
+static void Main()
+{
+    Console.WriteLine("Please enter your birthdate in the format MM/dd/yyyy:");
+    string birthdateInput = Console.ReadLine();
 
-//DateTime birthdayDay = currentDate.AddDays(-yourBirthday.Day);
-//DateTime birthdayMonth=currentDate.AddMonths(-yourBirthday.Month);
-//DateTime birthdayYear=currentDate.AddYears(-yourBirthday.Year);
-//string birthdayDayString = yourBirthday.ToString("mm/dd/yyyy");
-
-//static DateTime birthdayCalculator(DateTime yourBirthday,DateTime currentDate)
-//{
-//    DateTime yourBirthdayResult = currentDate - yourBirthday
-
-//    return yourBirthdayResult;
-//}
-//Console.WriteLine();
-
+    DateTime inputBirthdate;
+    if (DateTime.TryParse(birthdateInput, out inputBirthdate))
+    {
+        int age = AgeCalculator(inputBirthdate);
+        Console.WriteLine("Your age is: " + age);
+    }
+    else
+    {
+        Console.WriteLine("Invalid birthdate format. Please try again.");
+    }
+}
+Main();
