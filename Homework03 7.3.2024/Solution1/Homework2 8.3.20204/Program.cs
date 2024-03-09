@@ -29,8 +29,10 @@ using System.ComponentModel;
 
 static void DateFormat()
 {
-
-DateTime theDate = new DateTime(1994, 5, 24, 7, 20, 30);
+    Console.Write("Enter the date you would like to enter here(yyyy,mm,dd,hh,mm,ss): ");
+    string dateString=Console.ReadLine();
+    DateTime theDate=DateTime.Parse(dateString);    
+//DateTime theDate = new DateTime(1994, 5, 24, 7, 20, 30);
 
 
 Console.Write("Input the format you would like the date to be printed in(\n\"MM/dd/yyyy\"\n\"MM/dd/yyyy hh:mm:ss\"\n \"dddd, dd MMMM yyyy HH:mm:ss\"\n \"MM.dd.yyyy\"):  \n");
