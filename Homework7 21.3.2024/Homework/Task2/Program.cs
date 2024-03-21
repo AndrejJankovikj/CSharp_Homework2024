@@ -36,70 +36,53 @@ List<Product> products = new List<Product>()
     new Product(23, "Orange Essence Food Flavou", "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item", 14, 4.85, 26, "Baking Food Items", ProductCategory.Groceries)
 };
 
-//Retrieve all products with a price greater than $500.
 Console.WriteLine("\nAll products with a price greater than $500\n");
-List<string> priceOver500 = products.Where(product => product.Price > 500).Select(prod=>prod.Title).ToList();
+List<string> priceOver500 = products.Where(product => product.Price > 500).Select(prod => prod.Title).ToList();
 PrintCollectionItems(priceOver500);
-//Retrive all Skincare products.
 Console.WriteLine("\n All Skincare Products.\n");
-List<string> skincareProducts = products.Where(product => product.Category == ProductCategory.Skincare).Select(prod=>prod.Title).ToList();
+List<string> skincareProducts = products.Where(product => product.Category == ProductCategory.Skincare).Select(prod => prod.Title).ToList();
 PrintCollectionItems(skincareProducts);
-//Retrive all products titles.
 Console.WriteLine("\nAll products Titles!\n");
 List<string> allTitles = products.Select(product => product.Title).ToList();
 PrintCollectionItems(allTitles);
-//Select the titles of all products in the "Laptops" category.
 Console.WriteLine("\nTitles of all the products in the Laptops category!\n");
-List<string> laptopCategory = products.Where(product => product.Category == ProductCategory.Laptops).Select(prod=>prod.Title).ToList();
+List<string> laptopCategory = products.Where(product => product.Category == ProductCategory.Laptops).Select(prod => prod.Title).ToList();
 PrintCollectionItems(laptopCategory);
-//Select the descriptions of all products with a stock of less than 50.
 Console.WriteLine("\nDescriptions of all products with a stock of less than 50!\n");
 List<string> lessThan50 = products.Where(product => product.Stock < 50).Select(product => product.Description).ToList();
 PrintCollectionItems(lessThan50);
-//Retrieve the titles of all products with a rating above 4.5.
 Console.WriteLine("\nTitles of all the products with a rating above 4.5!\n");
 List<string> ratingAbove = products.Where(prod => prod.Rating > 4.5).Select(product => product.Title).ToList();
 PrintCollectionItems(ratingAbove);
-//Select the titles of all products with a price between $100 and $200.
 Console.WriteLine("\nTitles of all the products with a price between $100 and $200!\n");
 List<string> between100And200 = products.Where(product => product.Price >= 100 && product.Price <= 200).Select(prod => prod.Title).ToList();
 PrintCollectionItems(between100And200);
-//Select the titles of all products from the "Fragrances" category with a rating above 4.6.
 Console.WriteLine("\nTitles of all the products from the Frangrances category with a rating above 4.6!\n");
 List<string> fragrancesRatings = products.Where(prod => prod.Category == ProductCategory.Fragrances && prod.Rating > 4.6).Select(prod => prod.Title).ToList();
 PrintCollectionItems(fragrancesRatings);
-//Retrieve the brands of all products with a price above $1000.
 Console.WriteLine("\nBrands of all the products with a price above $1000!\n");
 List<string> brandsPricedAbove100 = products.Where(product => product.Price > 1000).Select(prod => prod.Brand).ToList();
 PrintCollectionItems(brandsPricedAbove100);
-//Select the titles of all products with the word "perfume" in the title.
 Console.WriteLine("\nTitles of all the products with the word perfume!\n");
 List<string> perfumeInWord = products.Where(product => product.Title.Contains("perfume")).Select(prod => prod.Title).ToList();
 PrintCollectionItems(perfumeInWord);
-
-//Find the last Grocery product.
 Console.WriteLine("\nThe last grocery product!\n");
 Product lastGroceryProduct = products.LastOrDefault(prod => prod.Category == ProductCategory.Groceries);
 Console.WriteLine($"The last product in the grocery category is: {lastGroceryProduct.Title}");
-//Find the first product with a price above 1000.
 Console.WriteLine("\nFirst product with a price above 1000!\n");
 Product firstPricedAbove1000 = products.FirstOrDefault(prod => prod.Price > 1000);
 Console.WriteLine($"The first item in the list priced above $1000 is: {firstPricedAbove1000.Title}");
-//Select the titles of all products from the "Groceries" category with a stock above 150.
 Console.WriteLine("\nTitles of all products from Groceries category with a stock above 150\n");
 List<string> groceriesStockAbove150 = products.Where(product => product.Category == ProductCategory.Groceries && product.Stock > 150).Select(product => product.Title).ToList();
 PrintCollectionItems(groceriesStockAbove150);
-//Find the first item from the brand "Hemani Tea".
 Console.WriteLine("\nFirst item from the brand Hemani Tea\n");
 Product firstHemaniTea = products.First(product => product.Brand == "Hemani Tea");
 Console.WriteLine($"The Item named: {firstHemaniTea.Title} is the first item in the list from the bran Hermani Tea with the price of: {firstHemaniTea.Price}");
-//Retrieve the ratings of all products with a stock between 30 and 50.
 Console.WriteLine("\n All the ratings of the products with a stock between 30 and 50 \n");
 List<double> stockBetween30And50 = products.Where(product => product.Stock >= 30 && product.Stock <= 50).Select(product => product.Rating).ToList();
 PrintCollectionItems(stockBetween30And50);
 /////////////////////////////////////////////////////////////////////////////BONUSES!
 Console.WriteLine("==========BONUSES==========");
-//Find the average price of all products.
 Console.WriteLine("Finding the average price of all products");
 List<double> averagePrices = products.Select(product => product.Price).ToList();
 double result = 0;
@@ -107,11 +90,9 @@ double finalResult = 0;
 foreach (double item in averagePrices)
 {
     result += item;
-
 }
 finalResult = result / averagePrices.Count;
 Console.WriteLine(finalResult);
-//Find the total stock of all products.
 Console.WriteLine("\nFinding the total stock of all the products.\n");
 int stock = 0;
 List<int> totalStock = products.Select(prod => prod.Stock).ToList();
@@ -120,25 +101,22 @@ foreach (int stockAmmount in totalStock)
     stock += stockAmmount;
 }
 Console.WriteLine(stock);
-//Check if there is any product with price over $2000.
 Console.WriteLine("\nChecking if there is a product with a price over $2000!\n");
 try
 {
     List<string> priceOver200 = products.Where(prod => prod.Price > 2000).Select(prod => prod.Title).ToList();
-    if(priceOver200.Count > 0)
+    if (priceOver200.Count > 0)
     {
-        foreach(string price in priceOver200)
+        foreach (string price in priceOver200)
         {
             Console.WriteLine($"The Item {price} has a price over 2000");
         }
     }
-
 }
-catch(Exception ex)
+catch (Exception ex)
 {
     Console.WriteLine(ex.Message);
 }
-//Find the most expensive Laptop.
 Console.WriteLine("\nThe most Expensive Laptop. \n");
 double mostExpensiveLaptop = 0;
 List<Product> everyLaptop = products.Where(prod => prod.Category == ProductCategory.Laptops).ToList();
@@ -147,9 +125,6 @@ if (everyLaptop.Count > 0)
     mostExpensiveLaptop = everyLaptop.Max(prod => prod.Price);
 }
 Console.WriteLine(mostExpensiveLaptop);
-
-
-//Retrieve the titles and descriptions of all products from the "Skincare" category.
 Console.WriteLine("\n Titles and Descriptions of all products from the Skincare category \n");
 var skinCareProduct = from product in products
                       where product.Category == ProductCategory.Skincare
