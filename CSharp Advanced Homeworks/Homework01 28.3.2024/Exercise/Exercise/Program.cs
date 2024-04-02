@@ -7,6 +7,7 @@ Teacher teacher1 = new Teacher(1, "Danilo", "Danilo123", new List<string>
     "Math"
 });
 teacher1.PrintUser();
+teacher1.PrintSubjects();
 
 
 
@@ -25,6 +26,7 @@ Student student1 = new Student(3, "Andrej", "Jankovikj", new List<int>
     5,1,4,3,2
 });
 student1.PrintUser();
+student1.PrintGrades();
 
 Student student2 = new Student(3, "Viktor", "Zdravkovski", new List<int>
 {

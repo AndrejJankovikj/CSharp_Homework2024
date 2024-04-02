@@ -18,7 +18,7 @@ namespace Exercise.Classes
             Console.WriteLine($"The subjects are: ");
             foreach (string subject in Subjects)
             {
-                Console.WriteLine($"The subjects are: {subject}"); ;
+                Console.WriteLine(subject);
             }
         }
     }
