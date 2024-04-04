@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.sourcelink.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\bin\Debug\net6.0\MainApp.exe
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\bin\Debug\net6.0\MainApp.deps.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\bin\Debug\net6.0\MainApp.runtimeconfig.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\bin\Debug\net6.0\MainApp.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\bin\Debug\net6.0\MainApp.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\refint\MainApp.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\MainApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework01 28.3.2024\Homework02\MainApp\obj\Debug\net6.0\ref\MainApp.dll
