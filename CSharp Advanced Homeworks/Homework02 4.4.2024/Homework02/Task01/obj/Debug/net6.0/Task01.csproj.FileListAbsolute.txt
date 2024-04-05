@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\bin\Debug\net6.0\Task01.exe
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\bin\Debug\net6.0\Task01.deps.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\bin\Debug\net6.0\Task01.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\bin\Debug\net6.0\Task01.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.sourcelink.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\refint\Task01.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework02 4.4.2024\Homework02\Task01\obj\Debug\net6.0\ref\Task01.dll

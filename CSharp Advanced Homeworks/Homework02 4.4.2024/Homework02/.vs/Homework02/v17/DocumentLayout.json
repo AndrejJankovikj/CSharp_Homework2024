@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\domain\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\domain\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\domain\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\domain\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\domain\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\domain\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484931-88E3-4AF7-8283-A58EBEA8C614}|Task03\\Task03.csproj|solutionrelative:task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\task02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\task02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\domain\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\domain\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\domain\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task02\\domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01A9722-65CE-4D51-A951-28B8456552E1}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195BF6FB-9A15-4609-AFFB-BAF334844240}|Task01\\Task01.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task01\\domain\\printsinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195BF6FB-9A15-4609-AFFB-BAF334844240}|Task01\\Task01.csproj|solutionrelative:task01\\domain\\printsinconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195BF6FB-9A15-4609-AFFB-BAF334844240}|Task01\\Task01.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195BF6FB-9A15-4609-AFFB-BAF334844240}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\domain\\models\\petstoregeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\domain\\models\\petstoregeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\domain\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\domain\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework02 4.4.2024\\homework02\\mainapp\\domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2549E946-E4FB-4ED7-8F3F-D03CA406F86C}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorbike.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Motorbike.cs",
+              "RelativeDocumentMoniker": "Task03\\Domain\\Models\\Motorbike.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Motorbike.cs",
+              "RelativeToolTip": "Task03\\Domain\\Models\\Motorbike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:27:52.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Task03\\Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Task03\\Domain\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:25:58.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task03\\Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Task03\\Domain\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:25:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "Task03\\Domain\\Models\\Boat.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Boat.cs",
+              "RelativeToolTip": "Task03\\Domain\\Models\\Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:25:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Airplane.cs",
+              "RelativeDocumentMoniker": "Task03\\Domain\\Models\\Airplane.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Domain\\Models\\Airplane.cs",
+              "RelativeToolTip": "Task03\\Domain\\Models\\Airplane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:25:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Program.cs",
+              "RelativeDocumentMoniker": "Task03\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task03\\Program.cs",
+              "RelativeToolTip": "Task03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:24:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Airplane.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Airplane.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Airplane.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Airplane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:19:43.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Boat.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Boat.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:19:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Motorbike.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Motorbike.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Motorbike.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Motorbike.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Motorbike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:19:29.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:19:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:18:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task02",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Task02.csproj",
+              "RelativeDocumentMoniker": "Task02\\Task02.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Task02.csproj",
+              "RelativeToolTip": "Task02\\Task02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T13:17:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Program.cs",
+              "RelativeDocumentMoniker": "Task02\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task02\\Program.cs",
+              "RelativeToolTip": "Task02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:56.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrintsInConsole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task01\\Domain\\PrintsInConsole.cs",
+              "RelativeDocumentMoniker": "Task01\\Domain\\PrintsInConsole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task01\\Domain\\PrintsInConsole.cs",
+              "RelativeToolTip": "Task01\\Domain\\PrintsInConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:02:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:02:19.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PetStoreGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\PetStoreGeneric.cs",
+              "RelativeDocumentMoniker": "MainApp\\Domain\\Models\\PetStoreGeneric.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\PetStoreGeneric.cs",
+              "RelativeToolTip": "MainApp\\Domain\\Models\\PetStoreGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:39:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "MainApp\\Domain\\Models\\Fish.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Fish.cs",
+              "RelativeToolTip": "MainApp\\Domain\\Models\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:33:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "MainApp\\Domain\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Cat.cs",
+              "RelativeToolTip": "MainApp\\Domain\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:33:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "MainApp\\Domain\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Dog.cs",
+              "RelativeToolTip": "MainApp\\Domain\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:33:22.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "MainApp\\Domain\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Domain\\Models\\Pet.cs",
+              "RelativeToolTip": "MainApp\\Domain\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:33:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework02 4.4.2024\\Homework02\\MainApp\\Program.cs",
+              "RelativeToolTip": "MainApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:30:59.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
