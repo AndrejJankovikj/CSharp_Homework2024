@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.Domain", "Cars.Domain\Cars.Domain.csproj", "{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.App", "Cars.App\Cars.App.csproj", "{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED23C2D7-7EC9-42EF-A99F-EC92BF4C8DDE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\bin\Debug\net6.0\Cars.Domain.deps.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\bin\Debug\net6.0\Cars.Domain.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\bin\Debug\net6.0\Cars.Domain.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.sourcelink.json
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\refint\Cars.Domain.dll
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\Cars.Domain.pdb
+C:\Users\User\Desktop\Github C# Homework\CSharp_Homework2024\CSharp Advanced Homeworks\Homework03 9.4.2024\Homework03Cars\Cars.Domain\obj\Debug\net6.0\ref\Cars.Domain.dll
