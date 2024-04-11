@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CD3A59AC-EAAD-40BD-AB63-D019BF3C098C}|Cars.App\\Cars.App.csproj|solutionrelative:cars.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework03 9.4.2024\\homework03cars\\cars.domain\\cars.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\cars.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework03 9.4.2024\\homework03cars\\cars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework03 9.4.2024\\homework03cars\\cars.domain\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework03 9.4.2024\\homework03cars\\cars.domain\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\homework03 9.4.2024\\homework03cars\\cars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A56FE75-24C7-4311-BDCA-FF7C45F56DE2}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Cars.Domain",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Cars.Domain.csproj",
+              "RelativeDocumentMoniker": "Cars.Domain\\Cars.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Cars.Domain.csproj",
+              "RelativeToolTip": "Cars.Domain\\Cars.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T13:50:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ConsoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Helpers\\ConsoleHelper.cs",
               "RelativeDocumentMoniker": "Cars.Domain\\Helpers\\ConsoleHelper.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Cars.Domain\\Helpers\\ConsoleHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T16:20:21.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:20:21.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ListHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Helpers\\ListHelper.cs",
               "RelativeDocumentMoniker": "Cars.Domain\\Helpers\\ListHelper.cs",
@@ -55,8 +71,7 @@
               "RelativeToolTip": "Cars.Domain\\Helpers\\ListHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T16:19:43.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:19:43.589Z"
             },
             {
               "$type": "Document",
@@ -66,14 +81,14 @@
               "RelativeDocumentMoniker": "Cars.App\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.App\\Program.cs",
               "RelativeToolTip": "Cars.App\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAOAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv3EAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T16:10:37.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CarsData.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Entities\\CarsData.cs",
               "RelativeDocumentMoniker": "Cars.Domain\\Entities\\CarsData.cs",
@@ -81,18 +96,17 @@
               "RelativeToolTip": "Cars.Domain\\Entities\\CarsData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T15:49:07.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T15:49:07.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Cars.Domain\\Entities\\Car.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\Homework03 9.4.2024\\Homework03Cars\\Cars.Domain\\Entities\\Car.cs",
               "RelativeToolTip": "Cars.Domain\\Entities\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T15:48:40.824Z",
               "EditorCaption": ""
