@@ -1,0 +1,17 @@
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.AssemblyInfo.cs
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Repository.deps.json
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Repository.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Repository.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Domain.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Domain.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.csproj.CopyComplete
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\refint\TimeTracking.Repository.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\TimeTracking.Repository.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\obj\Debug\net6.0\ref\TimeTracking.Repository.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Helpers.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Repository\bin\Debug\net6.0\TimeTracking.Helpers.pdb

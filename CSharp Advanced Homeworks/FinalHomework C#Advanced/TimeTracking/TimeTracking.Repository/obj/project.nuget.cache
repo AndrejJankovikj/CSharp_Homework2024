@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNbsZEATqHipc2tM8OwH3rlg9AifIYSpmhne5LF/j2hCFw4bthHQ21XZZMaBsf40IqfK3t3PLqF/uGAazYrGZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\TimeTracking.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

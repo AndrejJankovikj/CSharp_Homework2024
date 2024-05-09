@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TimeTracking.App/1.0.0": {
+        "dependencies": {
+          "TimeTracking.Services": "1.0.0"
+        },
+        "runtime": {
+          "TimeTracking.App.dll": {}
+        }
+      },
+      "TimeTracking.Domain/1.0.0": {
+        "dependencies": {
+          "TimeTracking.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "TimeTracking.Domain.dll": {}
+        }
+      },
+      "TimeTracking.Helpers/1.0.0": {
+        "runtime": {
+          "TimeTracking.Helpers.dll": {}
+        }
+      },
+      "TimeTracking.Repository/1.0.0": {
+        "dependencies": {
+          "TimeTracking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TimeTracking.Repository.dll": {}
+        }
+      },
+      "TimeTracking.Services/1.0.0": {
+        "dependencies": {
+          "TimeTracking.Domain": "1.0.0",
+          "TimeTracking.Helpers": "1.0.0",
+          "TimeTracking.Repository": "1.0.0"
+        },
+        "runtime": {
+          "TimeTracking.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeTracking.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeTracking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeTracking.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeTracking.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeTracking.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

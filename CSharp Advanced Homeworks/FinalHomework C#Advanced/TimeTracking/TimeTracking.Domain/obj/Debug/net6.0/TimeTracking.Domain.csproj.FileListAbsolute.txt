@@ -1,0 +1,15 @@
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.AssemblyInfo.cs
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\bin\Debug\net6.0\TimeTracking.Domain.deps.json
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\bin\Debug\net6.0\TimeTracking.Domain.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\bin\Debug\net6.0\TimeTracking.Domain.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\refint\TimeTracking.Domain.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\ref\TimeTracking.Domain.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\bin\Debug\net6.0\TimeTracking.Helpers.dll
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\bin\Debug\net6.0\TimeTracking.Helpers.pdb
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\newestTimeTracker\TimeTracking\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.csproj.CopyComplete
