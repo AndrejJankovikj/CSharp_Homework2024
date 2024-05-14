@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Code\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTracking.App.csproj",
+      "projectUniqueName": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTracking.App.csproj",
       "projectName": "TimeTracking.App",
-      "projectPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTracking.App.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\obj\\",
+      "projectPath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTracking.App.csproj",
+      "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -109,8 +109,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj"
+            "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj": {
+              "projectPath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj"
             }
           }
         }
@@ -140,30 +140,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

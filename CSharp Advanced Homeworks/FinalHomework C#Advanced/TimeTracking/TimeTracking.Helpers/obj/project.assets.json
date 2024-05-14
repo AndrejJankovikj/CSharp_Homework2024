@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Code\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\TimeTracking.Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\TimeTracking.Helpers.csproj",
       "projectName": "TimeTracking.Helpers",
-      "projectPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\TimeTracking.Helpers.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\obj\\",
+      "projectPath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\TimeTracking.Helpers.csproj",
+      "packagesPath": "C:\\Users\\Code\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Code\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,26 +61,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

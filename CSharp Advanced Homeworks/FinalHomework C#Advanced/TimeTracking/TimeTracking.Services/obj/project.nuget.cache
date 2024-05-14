@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RirSAyA4V63AdUGcOhw3qHfKOGoa/MJ7sBxY7qEC7XXIw/xkZm64uxo0fSayWa62N70oTPf0mcZIDFut3FLCfw==",
+  "dgSpecHash": "iydOYwMnTDF2TvZKf7MrBz7qEwc978GnTd0n6LBPnl92gqpGx6pKov/Td80im/phOIFDjNJhoa0lfGHS663zEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Code\\Desktop\\Andrej Jankovikj Qinshift folder\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\TimeTracking.Services.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
