@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|solutionrelative:timetracking.repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.services\\dtos\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\dtos\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|solutionrelative:timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|solutionrelative:timetracking.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.services\\dtos\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAA5FA2-266B-46A2-A9EB-DCC1E1144CC3}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\dtos\\statsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|solutionrelative:timetracking.repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.repository\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +29,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.repository\\database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08953D8-65F7-4392-BF68-E0368E537F05}|TimeTracking.Repository\\TimeTracking.Repository.csproj|solutionrelative:timetracking.repository\\database\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3355040-BFC4-4E85-A85B-E2958C5A84DE}|TimeTracking.Helpers\\TimeTracking.Helpers.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.helpers\\consolecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3355040-BFC4-4E85-A85B-E2958C5A84DE}|TimeTracking.Helpers\\TimeTracking.Helpers.csproj|solutionrelative:timetracking.helpers\\consolecolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\enums\\workingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\enums\\workingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\enums\\readingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\enums\\readingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.domain\\activities\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C552DD3A-3747-4C12-B849-F2A6DBAD2266}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\activities\\enums\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|solutionrelative:timetracking.app\\timetrackingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|c:\\users\\user\\desktop\\github c# homework\\csharp_homework2024\\csharp advanced homeworks\\finalhomework c#advanced\\timetracking\\timetracking.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5E6E5-9E82-48AD-8EDE-8B66BE706C31}|TimeTracking.App\\TimeTracking.App.csproj|solutionrelative:timetracking.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\Program.cs",
               "RelativeDocumentMoniker": "TimeTracking.App\\Program.cs",
@@ -71,11 +83,51 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.065Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "ConsoleColors.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\ConsoleColors.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Helpers\\ConsoleColors.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Helpers\\ConsoleColors.cs",
+              "RelativeToolTip": "TimeTracking.Helpers\\ConsoleColors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:39:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkingPlace.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Enums\\WorkingPlace.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Activities\\Enums\\WorkingPlace.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Enums\\WorkingPlace.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Activities\\Enums\\WorkingPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:39:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadingType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Enums\\ReadingType.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Activities\\Enums\\ReadingType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Enums\\ReadingType.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Activities\\Enums\\ReadingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:39:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ExerciseType.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Enums\\ExerciseType.cs",
               "RelativeDocumentMoniker": "TimeTracking.Domain\\Activities\\Enums\\ExerciseType.cs",
@@ -88,59 +140,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "StatsDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\DTOs\\StatsDto.cs",
               "RelativeDocumentMoniker": "TimeTracking.Services\\DTOs\\StatsDto.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\DTOs\\StatsDto.cs",
               "RelativeToolTip": "TimeTracking.Services\\DTOs\\StatsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\UserRepo.cs",
               "RelativeDocumentMoniker": "TimeTracking.Repository\\UserRepo.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\UserRepo.cs",
               "RelativeToolTip": "TimeTracking.Repository\\UserRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\User.cs",
               "RelativeDocumentMoniker": "TimeTracking.Domain\\User.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\User.cs",
               "RelativeToolTip": "TimeTracking.Domain\\User.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAcwFEAAABJAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAADwv2oAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Activity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Activity.cs",
               "RelativeDocumentMoniker": "TimeTracking.Domain\\Activities\\Activity.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Domain\\Activities\\Activity.cs",
               "RelativeToolTip": "TimeTracking.Domain\\Activities\\Activity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAANAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IUserService.cs",
@@ -153,64 +205,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "TimeTrackingUI.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTrackingUI.cs",
               "RelativeDocumentMoniker": "TimeTracking.App\\TimeTrackingUI.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.App\\TimeTrackingUI.cs",
               "RelativeToolTip": "TimeTracking.App\\TimeTrackingUI.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwCQAAAAlAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:11:10.097Z"
+              "WhenOpened": "2024-05-09T13:11:10.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\UserService.cs",
               "RelativeDocumentMoniker": "TimeTracking.Services\\UserService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\UserService.cs",
               "RelativeToolTip": "TimeTracking.Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwJYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:11:10.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UIService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\UIService.cs",
               "RelativeDocumentMoniker": "TimeTracking.Services\\UIService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Services\\UIService.cs",
               "RelativeToolTip": "TimeTracking.Services\\UIService.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAwLMAAAA+AAAA",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAswLMAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:11:10.108Z"
+              "WhenOpened": "2024-05-09T13:11:10.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\Interface\\IUserRepo.cs",
               "RelativeDocumentMoniker": "TimeTracking.Repository\\Interface\\IUserRepo.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\Interface\\IUserRepo.cs",
               "RelativeToolTip": "TimeTracking.Repository\\Interface\\IUserRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:11:10.114Z"
+              "WhenOpened": "2024-05-09T13:11:10.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "UserDb.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\DataBase\\UserDb.cs",
               "RelativeDocumentMoniker": "TimeTracking.Repository\\DataBase\\UserDb.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Github C# Homework\\CSharp_Homework2024\\CSharp Advanced Homeworks\\FinalHomework C#Advanced\\TimeTracking\\TimeTracking.Repository\\DataBase\\UserDb.cs",
               "RelativeToolTip": "TimeTracking.Repository\\DataBase\\UserDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:11:10.119Z"
+              "WhenOpened": "2024-05-09T13:11:10.119Z",
+              "EditorCaption": ""
             }
           ]
         }
