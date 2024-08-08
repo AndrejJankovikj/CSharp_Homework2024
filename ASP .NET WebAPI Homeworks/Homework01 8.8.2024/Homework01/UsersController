@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "d742cb6a-7192-4115-b4de-20f9a7a52340",
+		"name": "UsersController",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37554897"
+	},
+	"item": [
+		{
+			"name": "GetAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:7108/api/users"
+			},
+			"response": []
+		},
+		{
+			"name": "GetByIndex",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:7108/api/users/1"
+			},
+			"response": []
+		},
+		{
+			"name": "PostUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Aaaa\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://localhost:7108/api/users"
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteUser",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"Aaaa\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://localhost:7108/api/users"
+			},
+			"response": []
+		}
+	]
+}

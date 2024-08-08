@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\asp .net webapi homeworks\\homework01 8.8.2024\\homework01\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\asp .net webapi homeworks\\homework01 8.8.2024\\homework01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\asp .net webapi homeworks\\homework01 8.8.2024\\homework01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0212042F-2853-4483-82F7-5391DE2E96BC}|Homework01.csproj|solutionrelative:staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\StaticDb.cs",
+              "RelativeDocumentMoniker": "StaticDb.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\StaticDb.cs",
+              "RelativeToolTip": "StaticDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:59:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:58:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\ASP .NET WebAPI Homeworks\\Homework01 8.8.2024\\Homework01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:58:27.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

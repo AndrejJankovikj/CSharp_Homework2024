@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4B6748-D629-4981-B38E-3A2C2BCA7A49}|..\\BurgerApp.DTOs\\BurgerApp.DTOs.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.dtos\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4B6748-D629-4981-B38E-3A2C2BCA7A49}|..\\BurgerApp.DTOs\\BurgerApp.DTOs.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.dtos\\dto\\burgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4B6748-D629-4981-B38E-3A2C2BCA7A49}|..\\BurgerApp.DTOs\\BurgerApp.DTOs.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.dtos\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B08A1E-22C8-443F-A745-4B5AF435AE0E}|..\\BurgerApp.Domain\\BurgerApp.Domain.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.domain\\models\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B08A1E-22C8-443F-A745-4B5AF435AE0E}|..\\BurgerApp.Domain\\BurgerApp.Domain.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B08A1E-22C8-443F-A745-4B5AF435AE0E}|..\\BurgerApp.Domain\\BurgerApp.Domain.csproj|c:\\users\\user\\desktop\\sedc\\sedc-c#\u0026sqlhomeworks\\csharp_homework2024\\.net summer homework\\burgerapp.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\FilterDto.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.DTOs\\Dto\\FilterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\FilterDto.cs",
+              "RelativeToolTip": "..\\BurgerApp.DTOs\\Dto\\FilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:10:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.DTOs\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "..\\BurgerApp.DTOs\\Dto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:08:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\BurgerDto.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.DTOs\\Dto\\BurgerDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.DTOs\\Dto\\BurgerDto.cs",
+              "RelativeToolTip": "..\\BurgerApp.DTOs\\Dto\\BurgerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:06:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\BurgerApp.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:56:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "..\\BurgerApp.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:45:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\Burger.cs",
+              "RelativeDocumentMoniker": "..\\BurgerApp.Domain\\Models\\Burger.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SEDC\\SEDC-C#\u0026SQLHomeworks\\CSharp_Homework2024\\.Net Summer Homework\\BurgerApp.Domain\\Models\\Burger.cs",
+              "RelativeToolTip": "..\\BurgerApp.Domain\\Models\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:44:13.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
