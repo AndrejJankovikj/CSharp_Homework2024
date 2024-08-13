@@ -39,6 +39,7 @@ namespace BooksApp.Controllers
             }
         }
         //Add GET method that returns one book by filtering by author and title (use query string parameters)
+        [HttpGet("GetByAuthorAndTitle")]
         public ActionResult<Book> GetByAuthorAndTitle([FromQuery] string? author, [FromQuery] string? title)
         {
             try
@@ -91,11 +92,11 @@ namespace BooksApp.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
         }
-        //Errors
-        //Hide
 
-        //Fetch error
-        //response status is 500 https://localhost:7281/swagger/v1/swagger.json
+        //Bonus
+        //Add POST method that accepts list of books from the body of the request and returns their titles as a list of strings.
+        //Ne sfativ
+        //Try out PostMan and Swagger
     }
 }
 
@@ -107,7 +108,3 @@ namespace BooksApp.Controllers
 
 
 
-//Try out PostMan and Swagger
-
-//Bonus
-//Add POST method that accepts list of books from the body of the request and returns their titles as a list of strings.
