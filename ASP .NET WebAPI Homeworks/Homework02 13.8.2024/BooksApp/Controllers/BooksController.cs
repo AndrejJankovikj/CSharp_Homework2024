@@ -95,16 +95,35 @@ namespace BooksApp.Controllers
 
         //Bonus
         //Add POST method that accepts list of books from the body of the request and returns their titles as a list of strings.
-        //Ne sfativ
-        //Try out PostMan and Swagger
+        [HttpPost("postBookList")]
+        public ActionResult<List<string>> AddBookList([FromBody] List<Book> booksList)
+        {
+            try
+
+            {
+                List<string> stringList = new List<string>();
+                foreach (var book in booksList)
+                {
+                    if (string.IsNullOrEmpty(book.Author))
+                    {
+                        return StatusCode(StatusCodes.Status400BadRequest, "Book Author cannot be empty!");
+                    }
+                    if (string.IsNullOrEmpty(book.Title))
+                    {
+                        return StatusCode(StatusCodes.Status400BadRequest, "Book Title cannot be empty!");
+                    }
+                    stringList.Add(book.Title);
+                }
+                return stringList;
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
+
+        }
+
     }
+
+    //Try out PostMan and Swagger
 }
-
-
-
-
-
-
-
-
-
